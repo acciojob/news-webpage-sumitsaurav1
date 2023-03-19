@@ -12,5 +12,10 @@
 .article{
 	background-color:white;
 	display:inline-block;
-	width:auto;
+	width:25%;
+	margin:3px;
+    padding:10px;
+	border-radius:5px;
+	text-align:center;
+	margin-top:0px;
 }
